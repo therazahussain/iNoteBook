@@ -25,11 +25,17 @@ In the project directory, you can run:
 
 
 
-### How to run this App
+### What you need to run this App
+1. React.js - For the Front end
+2. Node (<=13.12.0)
+3. NPM (<=6.14.4)
+4. MongoDB (<=4.2.0)
 
-1. Clone this repository
-2. Open command line in the cloned folder,
-3. To install dependencies, run  npm install  or yarn
-4. To run the application for development, run  npm run development  or yarn development
-5. Open localhost:3000 in the browser
+### How to run this code
+1. Make sure MongoDB is running on your system
+2. Clone this repository
+3. Open command line in the cloned folder,
+4. To install dependencies, run npm install or yarn
+5. To run the application for development, run npm run development or yarn development
+6. Open localhost:3000 in the browser
 
